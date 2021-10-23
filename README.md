@@ -9,7 +9,7 @@ So, this application can be useful for such people.
 Hope it will be helpful.
 <hr>
 
---------------------------------------------------------------> `Team members` <--------------------------------------------------------------------
+----> `Team members` <----
 
 * [Aniruddha Soni](https://github.com/AniruddhaSoni)
 
