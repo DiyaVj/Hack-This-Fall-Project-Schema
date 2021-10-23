@@ -1,0 +1,48 @@
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100vw;
+  padding: 2rem 0;
+}
+.navbar_logo {
+  width: 310px;
+  object-fit: contain;
+}
+.search_bar {
+  position: relative;
+  width: 780px;
+  height: 45px;
+}
+.search_bar input {
+  width: inherit;
+  height: inherit;
+  border-radius: 50px;
+  outline: none;
+  border: none;
+  background-color: #e4e4e4;
+  padding: 0 30px;
+  font-size: 24px;
+}
+.search_icon {
+  position: absolute;
+  right: 30px;
+  top: 0;
+  height: 100%;
+  padding: 5px;
+}
+.category {
+  height: 48px;
+  width: 118px;
+}
+.category select {
+  height: inherit;
+  width: inherit;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  background: linear-gradient(180deg, #c7b9ff 0%, #e9d2f4 100%);
+  font-size: 18px;
+  font-weight: 600;
+  padding: 0 5px;
+}
