@@ -1,0 +1,28 @@
+.yojna {
+  height: 494px;
+  width: 485px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  background: linear-gradient(180deg, #cdbffe 0%, #e9d2f4 100%);
+  border-radius: 33px;
+  border: none;
+}
+.yojna_thumbnail {
+  height: 198px;
+  width: 198px;
+  object-fit: contain;
+}
+.yojna_title {
+  font-size: 30px;
+  font-weight: 600;
+}
+.yojna_desc {
+  width: 420px;
+  padding: 10px;
+  height: 76px;
+  background-color: #fff;
+  border-radius: 15px;
+  overflow: hidden;
+}
