@@ -7,3 +7,18 @@
   justify-items: center;
   align-items: center;
 }
+.tagline {
+  width: 807px;
+  height: 42px;
+  left: 125px;
+  top: 287px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 42px;
+
+  color: #000000;
+  margin: 2rem auto;
+}
