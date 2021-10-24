@@ -16,7 +16,7 @@ const useFetch = (url) => {
     callApi();
   });
 
-  return { data, isPending, error };
+  return { data, isPending };
 };
 
 export default useFetch;
